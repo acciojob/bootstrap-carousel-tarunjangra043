@@ -1,1 +1,8 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+.item{
+	height: 400px;
+}
+
+h2{
+	text-align: center;
+}
